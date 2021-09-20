@@ -37,7 +37,7 @@ var questionsDiv = document.querySelector("#questionsDiv");
 var wrapper = document.querySelector("#wrapper");
 
 
-var secondsLeft = 75;
+var secondsLeft = 76;
 
 var holdInterval = 0;
 
