@@ -11,6 +11,7 @@ This app runs in browser
 * JS
 
 ## Website
+https://mladen1506.github.io/Code-Quiz/
 
 ## Contribution
 Made by, Mladen Makivic
