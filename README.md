@@ -1,5 +1,6 @@
 # Code-Quiz
-<img width="1440" alt="Screen Shot 2021-09-23 at 6 30 30 PM" src="https://user-images.githubusercontent.com/89114955/134592719-fd18947a-472b-4686-aec0-c3294b3d79c4.png">
+<img width="1414" alt="Screen Shot 2021-09-29 at 2 50 25 PM" src="https://user-images.githubusercontent.com/89114955/135331272-b0753459-b01f-414d-a111-2eb414d036d1.png">
+
 ## Purpose
 
 A timed coding quiz with multiple choice questions.
