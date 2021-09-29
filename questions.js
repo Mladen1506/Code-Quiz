@@ -43,7 +43,7 @@ var holdInterval = 0;
 
 var penalty = 10;
 
-var ulCreate = document.createElement("ul");
+var olCreate = document.createElement("ol");
 
 timer.addEventListener("click", function () {
    
@@ -66,7 +66,7 @@ timer.addEventListener("click", function () {
 function render(questionIndex) {
    
     questionsDiv.innerHTML = "";
-    ulCreate.innerHTML = "";
+    olCreate.innerHTML = "";
     
     for (var i = 0; i < questions.length; i++) {
         
@@ -78,8 +78,8 @@ function render(questionIndex) {
     userChoices.forEach(function (newItem) {
         var listItem = document.createElement("li");
         listItem.textContent = newItem;
-        questionsDiv.appendChild(ulCreate);
-        ulCreate.appendChild(listItem);
+        questionsDiv.appendChild(olCreate);
+        olCreate.appendChild(listItem);
         listItem.addEventListener("click", (compare));
     })
 }
